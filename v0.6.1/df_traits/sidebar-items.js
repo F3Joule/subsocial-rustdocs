@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["moderation",""]],"struct":[["SpaceForRoles","Minimal set of fields from Space struct that are required by roles pallet."]],"trait":[["PermissionChecker",""],["SpaceFollowsProvider",""],["SpaceForRolesProvider",""]]});
